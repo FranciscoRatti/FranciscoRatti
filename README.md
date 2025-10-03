@@ -1,8 +1,8 @@
-# MI PORTFOLIO
+# MI PORTFOLIO 🗂️
 
 **Indice:**
-- [Tetris](#tetris-java)
-- [Control de caja](#control-de-caja-java-sql-access)
+- [Tetris](#1--tetris-java)
+- [Control de caja](#2--control-de-caja-java-sql-access)
 <br> <br>
 
 **Tecnologias utilizadas:**
@@ -10,7 +10,7 @@
 - ![sql](Images/sql.png) SQL  
 - ![access](Images/access.png) Access  
 
-## Tetris (Java) 🎮
+## 1- Tetris (Java)
 
 Este proyecto es un tetris con un menu de opciones incluido para cambiar el volumen, los controles y los colores de las piezas, al precionar el jugar permite escribir el nombre y luego iniciar una partida
 
@@ -24,7 +24,7 @@ Este es mi primer proyecto con java, la version actual es la V3.1.1, en su prime
 
 [`Show Code`](Tetris/src) | [`Download .zip`](Tetris/Tetris.zip)
 
-## Control de caja (Java, SQL, Access) 💰
+## 2- Control de caja (Java, SQL, Access)
 
 El objetivo de este software es poder tener un registro sobre el movimiento de la caja en un comercio (Ventas y pagos) de manera rapida y eficaz. Fue desarrollado para la imprenta de mi madre a modo de practica, ella buscaba un programa simple, intuitivo y sobre todo rapido.
 
